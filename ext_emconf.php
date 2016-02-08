@@ -33,6 +33,7 @@ $EM_CONF[$_EXTKEY] = array(
 			'iconfont' => '',
 			'bootstrap_grids' => '1.1.4',
 			'tgm_copyright' => '',
+			'cookieconsent2' => '',
 		),
 		'conflicts' => array(
 		),
