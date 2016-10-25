@@ -7,4 +7,3 @@ Diese Extension installiert die folgenden Erweiterungen
 * t3jquery
 * cl_jquery_fancybox
 * iconfont
-* bootstrap_grids
